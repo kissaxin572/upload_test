@@ -1,0 +1,227 @@
+E:\Anaconda3\pkgs\xlrd-2.0.1-pyhd3eb1b0_0\info\recipe\test.xls
+E:\Anaconda3\pkgs\xlrd-2.0.1-pyhd3eb1b0_0\info\test\test.xls
+E:\Kaogong\2-天津市2023年公开招考公务员职位表.xls
+E:\Kaogong\天津市2023年度定向36所重点高校选调计划表.xls
+E:\Kaogong\2024国考\2024国考专业目录.xlsx
+E:\Kaogong\2024国考\24税务系统专业目录.xlsx
+E:\Kaogong\2024国考\中央机关及其直属机构2024年度考试录用公务员招考简章 - 本科学历报名.xls
+E:\Kaogong\2024国考\中央机关及其直属机构2024年度考试录用公务员招考简章.xls
+E:\Kaogong\2024国考\国考岗位选岗(整理版）.xlsx
+E:\Nankai\个人申报材料\家庭经济困难研究生认定\附件3：南开大学2022级家庭经济困难研究生汇总表.xls
+E:\Nankai\党务\党员信息统计-林发鑫.xlsx
+E:\Nankai\党务\学生——研究生第八党支部（26人）.xlsx
+E:\Nankai\助管\VLOOKUP函数.xlsx
+E:\Nankai\学校下发材料\2022-2023【发学生】-计网学院研究生奖学金通知\2.学校及社会捐赠奖学金评审表格\4华为奖学金推荐汇总表（研究生）.xlsx
+E:\Nankai\学校下发材料\2022-2023【发学生】-计网学院研究生奖学金通知\4.周恩来奖学金推荐候选人申报材料\3.南开大学周恩来奖学金候选人信息汇总表.xlsx
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件2：南开大学2022-2023学年度导师提供助研津贴明细表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件3：南开大学2022-2023学年度研究生助研津贴发放汇总表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件4：南开大学2022-2023学年度导师提供助研津贴情况统计表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件6：南开大学2022-2023学年度研究生特殊助研津贴申请汇总表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\附件1：南开大学2022-2023学年度导师提供助研津贴参考名单.xls
+E:\Nankai\学校下发材料\【发学生】计网学院研究生奖学金材料\2-国家奖学金、周恩来奖学金、南开十杰、社会捐赠奖学金纸质材料\2.学校及社会捐赠奖学金评审表格\4华为奖学金推荐汇总表（研究生）.xlsx
+E:\Nankai\学校下发材料\【发学生】计网学院研究生奖学金材料\2-国家奖学金、周恩来奖学金、南开十杰、社会捐赠奖学金纸质材料\4.周恩来奖学金推荐候选人申报材料\3.南开大学周恩来奖学金候选人信息汇总表.xlsx
+E:\Nankai\学校下发材料\发给各班的通知\【附件1】各班代表人数.xlsx
+E:\Nankai\学校下发材料\学生证及研究生登记表\火车站站名字典.xls
+E:\Nankai\班级\236534029_2_国庆假期去向统计_31_31.xlsx
+E:\Nankai\班级\【2022级网安硕士班-林发鑫】学生2023年十一假期去向统计.xlsx
+E:\Nankai\班级\班级名单.xlsx
+E:\Nankai\科研\Web安全\Web安全调查报告-林发鑫\目录.xlsx
+E:\Nankai\科研\基于硬件特征检测\硬件文献.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\分工(1).xlsx
+E:\Nankai\科研\数据安全\论文\OCC\分工.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\文献.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\sort_by_year\-2020\-2020.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\sort_by_year\2021-2023\2020-2023-OCC.xlsx
+E:\Nankai\科研\数据安全\项目材料\数据安全预算说明-辅助表格3.0.xlsx
+E:\Nankai\科研\论文投稿\论文投稿网址统计.xlsx
+E:\Nankai\科研\论文投稿\图表\BigData\Fig 5.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-globe.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-副本.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-特征数量对准确率的影响.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图3-重要性排名.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图4-副本.xlsx
+E:\Nankai\课程\专业培养\2022-2023第二学期选课\附件\附件1.2022-2023（2）计算机网安学院 研究生课表.xlsx
+E:\Nankai\课程\专业培养\2022-2023第二学期选课\附件\附件9.2022-2023学年第二学期本科课程拟向研究生开放课程.xls
+E:\Nankai\课程\专业培养\课表及相关附件\附件1：2022-2023（1）研究生课表.xlsx
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\成果\经费-202211.xls
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\结项材料\人工智能大数据项目-验收.xlsx
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\验收素材\态势感知\态势感知与安全运营平台（NGSOC）-荣誉奖项.xlsx
+E:\Nankai\项目书打工\麒麟-天津科技局项目联合单位结项材料\2、结项系统填报-南开.xlsx
+E:\Nankai\项目书打工\麒麟-天津科技局项目联合单位结项材料\南开-结项系统填报.xlsx
+E:\Notebook\Shen Si\2023年国考招考简章.xls
+E:\Notebook\Shen Si\2023年国考进面名单.xlsx
+E:\Notebook\Shen Si\2023范县事业单位.xls
+E:\Software\Texlive\texlive\2022\texmf-dist\doc\latex\biochemistry-colors\Biochemistry-colors.xls
+E:\Software\Texlive\texlive\2022\texmf-dist\doc\latex\css-colors\css-colors.xlsx
+E:\Anaconda3\pkgs\xlrd-2.0.1-pyhd3eb1b0_0\info\recipe\test.xls
+E:\Anaconda3\pkgs\xlrd-2.0.1-pyhd3eb1b0_0\info\test\test.xls
+E:\Kaogong\2-天津市2023年公开招考公务员职位表.xls
+E:\Kaogong\天津市2023年度定向36所重点高校选调计划表.xls
+E:\Kaogong\2024国考\2024国考专业目录.xlsx
+E:\Kaogong\2024国考\24税务系统专业目录.xlsx
+E:\Kaogong\2024国考\中央机关及其直属机构2024年度考试录用公务员招考简章 - 本科学历报名.xls
+E:\Kaogong\2024国考\中央机关及其直属机构2024年度考试录用公务员招考简章.xls
+E:\Kaogong\2024国考\国考岗位选岗(整理版）.xlsx
+E:\Nankai\个人申报材料\家庭经济困难研究生认定\附件3：南开大学2022级家庭经济困难研究生汇总表.xls
+E:\Nankai\党务\党员信息统计-林发鑫.xlsx
+E:\Nankai\党务\学生——研究生第八党支部（26人）.xlsx
+E:\Nankai\助管\VLOOKUP函数.xlsx
+E:\Nankai\学校下发材料\2022-2023【发学生】-计网学院研究生奖学金通知\2.学校及社会捐赠奖学金评审表格\4华为奖学金推荐汇总表（研究生）.xlsx
+E:\Nankai\学校下发材料\2022-2023【发学生】-计网学院研究生奖学金通知\4.周恩来奖学金推荐候选人申报材料\3.南开大学周恩来奖学金候选人信息汇总表.xlsx
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件2：南开大学2022-2023学年度导师提供助研津贴明细表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件3：南开大学2022-2023学年度研究生助研津贴发放汇总表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件4：南开大学2022-2023学年度导师提供助研津贴情况统计表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\【学院-导师姓名】附件6：南开大学2022-2023学年度研究生特殊助研津贴申请汇总表.xls
+E:\Nankai\学校下发材料\2022-2023学年研究生助研津贴工作的通知\附件1：南开大学2022-2023学年度导师提供助研津贴参考名单.xls
+E:\Nankai\学校下发材料\【发学生】计网学院研究生奖学金材料\2-国家奖学金、周恩来奖学金、南开十杰、社会捐赠奖学金纸质材料\2.学校及社会捐赠奖学金评审表格\4华为奖学金推荐汇总表（研究生）.xlsx
+E:\Nankai\学校下发材料\【发学生】计网学院研究生奖学金材料\2-国家奖学金、周恩来奖学金、南开十杰、社会捐赠奖学金纸质材料\4.周恩来奖学金推荐候选人申报材料\3.南开大学周恩来奖学金候选人信息汇总表.xlsx
+E:\Nankai\学校下发材料\发给各班的通知\【附件1】各班代表人数.xlsx
+E:\Nankai\学校下发材料\学生证及研究生登记表\火车站站名字典.xls
+E:\Nankai\班级\236534029_2_国庆假期去向统计_31_31.xlsx
+E:\Nankai\班级\【2022级网安硕士班-林发鑫】学生2023年十一假期去向统计.xlsx
+E:\Nankai\班级\班级名单.xlsx
+E:\Nankai\科研\Web安全\Web安全调查报告-林发鑫\目录.xlsx
+E:\Nankai\科研\基于硬件特征检测\硬件文献.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\分工(1).xlsx
+E:\Nankai\科研\数据安全\论文\OCC\分工.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\文献.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\sort_by_year\-2020\-2020.xlsx
+E:\Nankai\科研\数据安全\论文\OCC\sort_by_year\2021-2023\2020-2023-OCC.xlsx
+E:\Nankai\科研\数据安全\项目材料\数据安全预算说明-辅助表格3.0.xlsx
+E:\Nankai\科研\论文投稿\论文投稿网址统计.xlsx
+E:\Nankai\科研\论文投稿\图表\BigData\Fig 5.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-globe.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-副本.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图2-特征数量对准确率的影响.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图3-重要性排名.xlsx
+E:\Nankai\科研\论文投稿\郑师兄-KR\作图\图4-副本.xlsx
+E:\Nankai\课程\专业培养\2022-2023第二学期选课\附件\附件1.2022-2023（2）计算机网安学院 研究生课表.xlsx
+E:\Nankai\课程\专业培养\2022-2023第二学期选课\附件\附件9.2022-2023学年第二学期本科课程拟向研究生开放课程.xls
+E:\Nankai\课程\专业培养\课表及相关附件\附件1：2022-2023（1）研究生课表.xlsx
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\成果\经费-202211.xls
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\结项材料\人工智能大数据项目-验收.xlsx
+E:\Nankai\项目书打工\人工智能大数据项目相关材料\验收素材\态势感知\态势感知与安全运营平台（NGSOC）-荣誉奖项.xlsx
+E:\Nankai\项目书打工\麒麟-天津科技局项目联合单位结项材料\2、结项系统填报-南开.xlsx
+E:\Nankai\项目书打工\麒麟-天津科技局项目联合单位结项材料\南开-结项系统填报.xlsx
+E:\Notebook\Shen Si\2023年国考招考简章.xls
+E:\Notebook\Shen Si\2023年国考进面名单.xlsx
+E:\Notebook\Shen Si\2023范县事业单位.xls
+E:\Software\Texlive\texlive\2022\texmf-dist\doc\latex\biochemistry-colors\Biochemistry-colors.xls
+E:\Software\Texlive\texlive\2022\texmf-dist\doc\latex\css-colors\css-colors.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\addons\ofdplugin\template\receipt\invoice.xls
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Area.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bar.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bubble.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pie.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Scatter.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockA.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockB.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockC.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockD.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_WebShape.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\templates\newfile.xls
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\templates\newfile.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15374\office6\mui\zh_CN\templates\secdoctemplate.xls
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\addons\ofdplugin\template\receipt\invoice.xls
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Area.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bar.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bubble.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pie.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Scatter.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockA.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockB.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockC.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockD.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_WebShape.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\templates\newfile.xls
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\templates\newfile.xlsx
+E:\Software\Wps\WPS Office\12.1.0.15712\office6\mui\zh_CN\templates\secdoctemplate.xls
+E:\Workspace\Datasets\NER\NER数据集说明.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\yidu-s4k\subtask2_test.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\yidu-s4k\subtask2_training_part1.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\yidu-s4k\subtask2_training_part2.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\__MACOSX\yidu-s4k\._subtask2_test.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\__MACOSX\yidu-s4k\._subtask2_training_part1.xlsx
+E:\Workspace\Datasets\NER\CCKS\2019\yidu-s4k\__MACOSX\yidu-s4k\._subtask2_training_part2.xlsx
+E:\Workspace\Pycharm\CBLUE\CBLUEDatasets\CHIP-CDN\国际疾病分类 ICD-10北京临床版v601.xlsx
+E:\Workspace\Pycharm\CBLUE\CBLUEDatasets\CHIP-CTC\category.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\Applet\wx5db79bd23a923e8e\usr\附件1：2023年范县事业单位公.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-02\伯川4层学生值班表2023年2月份.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-02\伯川4层学生值班表2023年3月份.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-02\劳务费报销0503.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-02\车站.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-03\1_2022级网安硕士信息表.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-03\图2-特征数量对准确率的影响.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\content_1685408041559(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\content_1685408041559(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\content_1685408041559(3).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\content_1685408041559.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\分组_v1.0.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-05\陆集乡60岁还未认证人员.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-06\2023年国考职位表.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-06\2023年度山东省省级机关及其直属机构公务员招录职位表(1)(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-06\2023年暑假值班表-计网学院(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-06\【模板】2023年 毕业生转出组织关系登记表.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-06\成绩.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\分工(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\分工.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\已阅读的文献.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\成绩单-20222023第二学期软件安全期末考试(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\成绩导入.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\打分表.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\文献(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\文献.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-07\论文汇报时间安排.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\2023-2024（1）研究生课表.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\开卡工号注册登记表.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件2：2023年范县事业单位公开招聘工作人员资格复审人员名单(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件2：2023年范县事业单位公开招聘工作人员资格复审人员名单.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改(1)(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改）(1)(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改）(1)(2).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-08\附件：范县考入外省考生情况汇总表（修改）(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\2023年范县事业单位公开引进高层次和急需紧缺人才面试名单20230915.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\ec8073094120106278aa8adbe9c0d900_b11d1e22b2bb674dab4b6a8f10a49540_8.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\【班级名称-负责人姓名】学生2023年十一假期去向统计.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\左俊20221506210203.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\林楼村(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\林楼村.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\林楼村未领取658人.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\附件1：2023年范县事业单位公开招聘工作人员9月23日面试人员名单(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\附件1：2023年范县事业单位公开招聘工作人员9月23日面试人员名单.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-09\附件2：2023年范县事业单位公开招聘工作人员9月24日面试人员名单.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(1)(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(1)(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(3).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录(4).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2024国考专业目录.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\24税务系统专业目录(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\24税务系统专业目录.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2、结项系统填报-南开(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\2、结项系统填报-南开.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\8189f5f925197941dc6228cf54614679_29d63e82f7ace65135013ddae96fa58b_8.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\8a7ff4e509e653e0dade0c54cf65eb19_6cd420c0ecc2a5ade5314b4d21a13efb_8.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(1).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(2).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(3).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(4).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(5).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章(6).xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\中央机关及其直属机构2024年度考试录用公务员招考简章.xls
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\南大24年岗位.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\国考岗位选岗(整理版）(1)(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\国考岗位选岗(整理版）(1)(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\国考岗位选岗(整理版）(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\国考岗位选岗(整理版）.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\学生——研究生第八党支部（26人）.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\林楼.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\税务系统招考专业详情(1)(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\税务系统招考专业详情(1)(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\税务系统招考专业详情(1).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\税务系统招考专业详情(2).xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\税务系统招考专业详情.xlsx
+E:\Workspace\WeChat\WeChat Files\wxid_190a6f8fdfq622\FileStorage\File\2023-10\附件1：2023年范县事业单位公开引进高层次和急需紧缺人才岗位一览表.xls
